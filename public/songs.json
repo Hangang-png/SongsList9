@@ -1,4 +1,4 @@
 [
-  { "title":"对唱.mp3","url": "/SongsList3/mp3/对唱.mp3" },
-  { "title":"风含情水含笑.mp3","url": "/SongsList3/mp3/风含情水含笑.mp3" }
+  { "title":"对唱.mp3","url": "public/mp3/对唱.mp3" },
+  { "title":"风含情水含笑.mp3","url": "public/mp3/风含情水含笑.mp3" }
 ]
