@@ -1,5 +1,5 @@
 async function loadSongs() {
-  const res = await fetch('/Songs_GoatCounter/songs.json');  // ← 注意这里
+  const res = await fetch('/SongsList3/songs.json');  // ← 注意这里
   const songs = await res.json();
 
   const songList = document.getElementById('song-list');
