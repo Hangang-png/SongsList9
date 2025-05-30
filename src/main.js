@@ -1,5 +1,5 @@
 async function loadSongs() {
-  const res = await fetch('songs.json');  // ← 注意这里
+  const res = await fetch('public/songs.json');  // ← 注意这里
   const songs = await res.json();
 
   const songList = document.getElementById('song-list');
