@@ -1,4 +1,19 @@
 [
   { "title":"对唱.mp3","url": "public/mp3/对唱.mp3" },
-  { "title":"风含情水含笑.mp3","url": "public/mp3/风含情水含笑.mp3" }
+  { "title":"风含情水含笑.mp3","url": "public/mp3/风含情水含笑.mp3" },
+  { "title":"红枣树.mp3","url": "public/mp3/红枣树.mp3" },
+  { "title":"铿锵玫瑰.mp3","url": "public/mp3/铿锵玫瑰.mp3" },
+  { "title":"牧民新歌.mp3","url": "public/mp3/牧民新歌.mp3" },
+
+  { "title":"情愿.mp3","url": "public/mp3/情愿.mp3" },
+  { "title":"情愿孤独.mp3","url": "public/mp3/情愿孤独.mp3" },
+  { "title":"送别.mp3","url": "public/mp3/送别.mp3" },
+  { "title":"涛声依旧.mp3","url": "public/mp3/涛声依旧.mp3" },
+  { "title":"天路.mp3","url": "public/mp3/天路.mp3" },
+
+  { "title":"铁窗泪.mp3","url": "public/mp3/铁窗泪.mp3" },
+  { "title":"驼铃.mp3","url": "public/mp3/驼铃.mp3" },
+  { "title":"西游记女儿国.mp3","url": "public/mp3/西游记女儿国.mp3" },
+  { "title":"小白扬.mp3","url": "public/mp3/小白扬.mp3" },
+  { "title":"长江之歌.mp3","url": "public/mp3/长江之歌.mp3" }
 ]
