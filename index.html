@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Popular Songs</title>
+  <link rel="stylesheet" href="src/style.css" />
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+ 
+</head>
+<body>
+	<header class="banner fade-in">
+	  <div class="avatar">
+	    <img src="public/Head_Img.png" class="rotating" alt="旋转头像" />
+	  </div>
+	  <div class="info">
+	    <h2>天籁之音，瑶池仙乐。</h2>
+	    <h3>二分歌台，美妙歌声之源。</h3>
+	    <p>格言：让歌声充盈世界，让优美的旋律环绕在你的身边。</p>
+	    <div class="contact">📍 多伦多 ｜ ☎ 437-123-4567</div>
+	  </div>
+	</header>
+
+  <h1>Popular Songs List</h1>
+  <div id="song-list"></div>
+
+  <footer class="footer">
+    <p>© 2025 二分歌台 | 用音乐点亮心灵</p>
+    <p>本站访问次数：<span data-goatcounter-show="visits">干活中2...</span></p>
+    <a href="#">返回顶部 ↑</a>
+    <!-- 添加转到歌曲表1的按钮 -->
+    <button id="redirect-button">转到歌曲表1</button>
+  </footer>
+
+  <script>
+    // 获取按钮元素
+    const redirectButton = document.getElementById('redirect-button');
+
+    // 为按钮添加点击事件，跳转到歌曲表1的页面
+    redirectButton.addEventListener('click', () => {
+      window.location.href = 'https://hangang-png.github.io/popularSongs/'; // 替换为你的歌曲表1的链接
+    });
+  </script>
+
+
+<script data-goatcounter="https://songs-goat.goatcounter.com/count"
+        async src="https://gc.zgo.at/count.js"></script>
+
+<script>
+  window.onload = function() {
+  window.goatcounter = {
+    path: location.href.replace(location.origin, '')
+  };
+};
+
+</script>
+
+  <script type="module" src="src/main.js"></script>
+</body>
+</html>
