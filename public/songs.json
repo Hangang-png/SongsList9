@@ -1,19 +1,19 @@
 [
-  { "title":"北国之春.mp3","url": "public/mp3/北国之春.mp3" },
-  { "title":"梁祝.mp3","url": "public/mp3/梁祝.mp3" },
-  { "title":"林徽因.mp3","url": "public/mp3/林徽因.mp3" },
-  { "title":"牡丹之歌.mp3","url": "public/mp3/牡丹之歌.mp3" },
-  { "title":"倪桂珍.mp3","url": "public/mp3/倪桂珍.mp3" },
+  { "title":"白起.mp3","url": "public/mp3/白起.mp3" },
+  { "title":"曹操.mp3","url": "public/mp3/曹操.mp3" },
+  { "title":"多尔衮.mp3","url": "public/mp3/多尔衮.mp3" },
+  { "title":"韩信.mp3","url": "public/mp3/韩信.mp3" },
+  { "title":"皇太极.mp3","url": "public/mp3/皇太极.mp3" },
 
-  { "title":"去酒吧.mp3","url": "public/mp3/去酒吧.mp3" },
-  { "title":"桃花盛开的地方.mp3","url": "public/mp3/桃花盛开的地方.mp3" },
-  { "title":"我们的追求.mp3","url": "public/mp3/我们的追求.mp3" },
-  { "title":"我三十啦.mp3","url": "public/mp3/我三十啦.mp3" },
-  { "title":"我以为.mp3","url": "public/mp3/我以为.mp3" },
+  { "title":"李世民.mp3","url": "public/mp3/李世民.mp3" },
+  { "title":"刘邦.mp3","url": "public/mp3/刘邦.mp3" },
+  { "title":"吕后.mp3","url": "public/mp3/吕后.mp3" },
+  { "title":"司马懿.mp3","url": "public/mp3/司马懿.mp3" },
+  { "title":"武则天.mp3","url": "public/mp3/武则天.mp3" },
 
-  { "title":"徐志摩.mp3","url": "public/mp3/徐志摩.mp3" },
-  { "title":"映江南.mp3","url": "public/mp3/映江南.mp3" },
-  { "title":"于凤至.mp3","url": "public/mp3/于凤至.mp3" },
-  { "title":"张幼仪.mp3","url": "public/mp3/张幼仪.mp3" },
-  { "title":"赵四小姐.mp3","url": "public/mp3/赵四小姐.mp3" }
+  { "title":"萧何.mp3","url": "public/mp3/萧何.mp3" },
+  { "title":"雍正对兄弟老八下死手.mp3","url": "public/mp3/雍正对兄弟老八下死手.mp3" },
+  { "title":"张良.mp3","url": "public/mp3/张良.mp3" },
+  { "title":"赵匡胤.mp3","url": "public/mp3/赵匡胤.mp3" },
+  { "title":"朱元璋.mp3","url": "public/mp3/朱元璋.mp3" }
 ]
