@@ -42,7 +42,14 @@
       window.location.href = 'https://hangang-png.github.io/popularSongs/'; // 替换为你的歌曲表1的链接
     });
   </script>
-
+<script>
+    var t = setInterval(function() {
+        if (window.goatcounter && window.goatcounter.visit_count) {
+            clearInterval(t)
+            window.goatcounter.visit_count({append: 'body'})
+        }
+    }, 100)
+</script>
 
 <script data-goatcounter="https://songs-goat.goatcounter.com/count"
         async src="https://gc.zgo.at/count.js"></script>
