@@ -1,5 +1,5 @@
 async function loadSongs() {
-  const res = await fetch('public/songs.json');
+  const res = await fetch('songs.json');
   const songs = await res.json();
 
   const songList = document.getElementById('song-list');
