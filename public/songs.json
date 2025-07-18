@@ -1,20 +1,20 @@
 [
-  { "title":"不羡慕别人有钱.mp3","url": "public/mp3/不羡慕别人有钱.mp3" },
-  { "title":"打工人的心酸.mp3","url": "public/mp3/打工人的心酸.mp3" },
-  { "title":"来时路.mp3","url": "public/mp3/来时路.mp3" },
-  { "title":"了却这牵挂.mp3","url": "public/mp3/了却这牵挂.mp3" },
-  { "title":"黎明男.mp3","url": "public/mp3/黎明男.mp3" },
+  { "title":"不羡慕别人有钱.mp3","url": "public/mp3/不羡慕别人有钱.mp3","type": "audio"},
+  { "title":"打工人的心酸.mp3","url": "public/mp3/打工人的心酸.mp3" ,"type": "audio"},
+  { "title":"来时路.mp3","url": "public/mp3/来时路.mp3" ,"type": "audio"},
+  { "title":"了却这牵挂.mp3","url": "public/mp3/了却这牵挂.mp3" ,"type": "audio"},
+  { "title":"黎明男.mp3","url": "public/mp3/黎明男.mp3" ,"type": "audio"},
 
-  { "title":"黎明女.mp3","url": "public/mp3/黎明女.mp3" },
-  { "title":"多少苦.mp3","url": "public/mp3/多少苦.mp3" },
-  { "title":"生活是一团麻.mp3","url": "public/mp3/生活是一团麻.mp3" },
-  { "title":"时光匆匆走.mp3","url": "public/mp3/时光匆匆走.mp3" },
-  { "title":"树叶飘枝头.mp3","url": "public/mp3/树叶飘枝头.mp3" },
+  { "title":"黎明女.mp3","url": "public/mp3/黎明女.mp3" ,"type": "audio"},
+  { "title":"多少苦.mp3","url": "public/mp3/多少苦.mp3" ,"type": "audio"},
+  { "title":"生活是一团麻.mp3","url": "public/mp3/生活是一团麻.mp3" ,"type": "audio"},
+  { "title":"时光匆匆走.mp3","url": "public/mp3/时光匆匆走.mp3" ,"type": "audio"},
+  { "title":"树叶飘枝头.mp3","url": "public/mp3/树叶飘枝头.mp3" ,"type": "audio"},
 
-  { "title":"天宫.mp3","url": "public/mp3/天宫.mp3" },
-  { "title":"唯一.mp3","url": "public/mp3/唯一.mp3" },
-  { "title":"物是人非.mp3","url": "public/mp3/物是人非.mp3" },
-  { "title":"相思夜.mp3","url": "public/mp3/相思夜.mp3" },
-  { "title":"烟雨扬州.mp3","url": "public/mp3/烟雨扬州.mp3" },
-  { "title":"社会.mp4","url": "public/mp3/社会.mp4" }
+  { "title":"天宫.mp3","url": "public/mp3/天宫.mp3" ,"type": "audio"},
+  { "title":"唯一.mp3","url": "public/mp3/唯一.mp3" ,"type": "audio"},
+  { "title":"物是人非.mp3","url": "public/mp3/物是人非.mp3" ,"type": "audio"},
+  { "title":"相思夜.mp3","url": "public/mp3/相思夜.mp3" ,"type": "audio"},
+  { "title":"烟雨扬州.mp3","url": "public/mp3/烟雨扬州.mp3" ,"type": "audio"},
+  { "title":"社会.mp4","url": "public/mp3/社会.mp4" ,"type": "video"}
 ]
