@@ -75,21 +75,18 @@ h1 {
 }
 
 audio {
-  width: 30%;
+  width: 100%;
 }
 .video {
-  width: 30%;
-  overflow-x: hidden;
-  margin-top: 40px;
-  text-align: center;
+  width: 100%;
+  margin-top: 1.5rem;
   display: flex;
   justify-content: center;
 }
+
 .video video {
-  max-width: 30%;
+  max-width: 90%;
   height: auto;
-  border-radius: 12px;
-  box-shadow: 0 0 10px rgba(0,0,0,0.3);
 }
 /* footer */
 .footer {
@@ -147,5 +144,18 @@ audio {
   .footer {
     padding: 1rem;
     font-size: 0.85rem;
+  }
+
+  /* ✅ 添加这段代码 */
+  .video {
+    width: 100%;
+    margin-top: 1.5rem;
+    display: flex;
+    justify-content: center;
+  }
+
+  .video video {
+    max-width: 90%;
+    height: auto;
   }
 }
