@@ -86,7 +86,7 @@ audio {
   justify-content: center;
 }
 .video video {
-  max-width: 100%;
+  max-width: 30%;
   height: auto;
   border-radius: 12px;
   box-shadow: 0 0 10px rgba(0,0,0,0.3);
