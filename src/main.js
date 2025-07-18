@@ -21,7 +21,7 @@ async function loadSongs() {
   videoContainer.innerHTML = `
     <h3>🎬 视频欣赏</h3>
     <video width="640" height="360" controls>
-      <source src="public/mp3/你的视频文件.mp4" type="video/mp4">
+      <source src="public/mp3/社会.mp4" type="video/mp4">
       您的浏览器不支持 video 标签。
     </video>
   `;
