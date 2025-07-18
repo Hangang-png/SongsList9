@@ -78,6 +78,8 @@ audio {
   width: 100%;
 }
 .video {
+  width: 100%;
+  overflow-x: hidden;
   margin-top: 40px;
   text-align: center;
   display: flex;
