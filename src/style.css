@@ -77,17 +77,18 @@ h1 {
 audio {
   width: 100%;
 }
-
 .video {
   margin-top: 40px;
   text-align: center;
+  display: flex;
+  justify-content: center;
 }
-
 .video video {
+  max-width: 100%;
+  height: auto;
   border-radius: 12px;
   box-shadow: 0 0 10px rgba(0,0,0,0.3);
 }
-
 /* footer */
 .footer {
   text-align: center;
