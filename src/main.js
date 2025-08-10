@@ -15,14 +15,16 @@ async function loadSongs() {
           <audio controls loop src="${song.url}"></audio>
         `;
       } else if (song.type === 'video') {
-        div.innerHTML = `
-          <h3>🎬 ${song.title}</h3>
-          <video width="640" height="360" controls>
+      div.innerHTML = `
+        <h3>🎬 ${song.title}</h3>
+        <div class="video">
+          <video controls>
             <source src="${song.url}" type="video/mp4">
             您的浏览器不支持 video 标签。
           </video>
-        `;
-      }
+        </div>
+      `;
+    }
 
       songList.appendChild(div);
     });
